@@ -4,8 +4,8 @@
 It all started on a cold fall day ...
 
 ## Classroom info
-| name | halloween costume | favorite candy |
+| Name | Costume | Fav Candy |
 | --- | --- | --- |
-| John | Luigi | Starbursts| 
+| John | Luigi | Starbursts | 
 
 ## Classroom art
