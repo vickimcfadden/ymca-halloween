@@ -1,7 +1,7 @@
 # ymca-halloween 🎃
 
 ## Classroom spooky story 👻
-It all started on a cold fall day ...
+It all started on a dreary fall day when a mummy came out of a house to scare John's mom. He was joined with his friends – 2 skeletons ☠️ and a spider 🕷️. They went for a walk to find John's mom to scare. They hid behind a rock, and when she got close, they jumped out and said "HAPPY HALLOWEEN"! 
 
 ## Classroom info 🍬
 | Name | Costume | Fav Candy |
