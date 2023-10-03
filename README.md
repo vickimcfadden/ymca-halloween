@@ -29,4 +29,4 @@ It all started on a dreary fall day when a mummy came out of a house to scare Jo
 | Jamie | Lightning McQueen | Rainbow lollipop |
 
 ## Classroom art 🖌️
-<img src="https://user-images.githubusercontent.com/6501138/192805611-fe020957-226f-4c65-844c-6536caa47ebf.png" alt="picture of Ashley Owens" width="100" height="100">
+<img src="https://github.com/vickimcfadden/ymca-halloween/blob/main/IMG_2381.jpg" alt="picture of large plastic skeleton outside YMCA" width="200" height="400">
